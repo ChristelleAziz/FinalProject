@@ -14,4 +14,6 @@ public class Department {
         //TODO : to be implemented
         return false;
     }
+
+    //use constructor for the hard code!
 }
